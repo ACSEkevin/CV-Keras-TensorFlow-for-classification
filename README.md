@@ -12,7 +12,7 @@ In package `kevin_utils.models`, the models are listed:
 5. VisionTransformer, SwinTransformer, ConvNeXt<p>
 
 #### The models are provided for future convenient, please make a citations when cloning and using this code.
-## Reference:<p>
+## Reference<p>
 Yann, L. (1998) LeNet <http://yann.lecun.com/exdb/lenet/index.html><br>
 Krizhevsky, A. (2012) AlexNet <http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf><br>
 Visual Geometry Group VGG <https://arxiv.org/abs/1409.1556><br>
@@ -25,3 +25,10 @@ Sandler, M. (2018) MobileNet V2 <https://arxiv.org/abs/1801.04381><br>
 Howard, A. (2019) MobileNet V3 <https://arxiv.org/abs/1905.02244><br>
 Zhang, X. (2017) ShuffleNet V1 <https://arxiv.org/abs/1707.01083><br>
 Ma, N. (2018) ShuffleNet V2 <https://arxiv.org/abs/1807.11164><br>
+Tan, M. (2019) EfficientNet V1 <https://arxiv.org/abs/1905.11946><br>
+Yan, M. (2021) EfficientNet V2 <https://arxiv.org/abs/2104.00298><br>
+Dosovitskiy, A. (2020) Vision Transformer <https://arxiv.org/abs/2010.11929><br>
+Liu, Z. (2021) Shifted-Window Transformer <https://arxiv.org/abs/2103.14030><br>
+Liu, Z. (2021) Swin Transformer V2: Scaling Up Capacity and Resolution <https://arxiv.org/abs/2111.09883><p>
+## Thanks<p>
+### @WZMIAOMIAO <https://github.com/WZMIAOMIAO> for the original code explanation and organized article link.
