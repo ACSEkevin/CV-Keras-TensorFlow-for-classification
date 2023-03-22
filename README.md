@@ -31,4 +31,4 @@ Dosovitskiy, A. (2020) Vision Transformer <https://arxiv.org/abs/2010.11929><br>
 Liu, Z. (2021) Shifted-Window Transformer <https://arxiv.org/abs/2103.14030><br>
 Liu, Z. (2021) Swin Transformer V2: Scaling Up Capacity and Resolution <https://arxiv.org/abs/2111.09883><p>
 ## Thanks<p>
-### @WZMIAOMIAO <https://github.com/WZMIAOMIAO> for the original code explanation and organized article link.
+#### @WZMIAOMIAO <https://github.com/WZMIAOMIAO> for the original code explanation and organized article link.
