@@ -1,7 +1,9 @@
 # CV-Keras-TensorFlow-for-classification
 ## Author: ACSEKevin <hzhang205@sheffield.ac.uk>
 This is a project including most of the CNN backbones which can be found in package `kevin_utils.models`<p>
-#### Notice: 1. SwinTransformer in this version accepts inputs with different size of images instead of the original version (224 x 224 x 3),  has not been tested yet, however. If there is any problem when using models, please refer to <https://github.com/microsoft/Swin-Transformer><br> 2. The datasets have been removed from the dataset directories, please add own dataset before run the code. The origial datasets: ImageNet21k, Pascal VOC 2012, cat_and_dog_dataset, flowers_dataset, gesture_dataset.<p>
+#### Notice: 
+1. SwinTransformer in this version accepts inputs with different size of images instead of the original version (224 x 224 x 3),  has not been tested yet, however. If there is any problem when using models, please refer to <https://github.com/microsoft/Swin-Transformer><br> 
+2. The datasets have been removed from the dataset directories, please add own dataset before run the code. The origial datasets: ImageNet21k, Pascal VOC 2012, cat_and_dog_dataset, flowers_dataset, gesture_dataset.<p>
 
 In `main`, `train.py` for training the model, `Kevin_datasets.py` for wrapping the dataset processing procedures.<br>
 In package `kevin_utils.models`, the models are listed:
