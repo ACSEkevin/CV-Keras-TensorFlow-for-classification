@@ -1,7 +1,7 @@
 # CV-Keras-TensorFlow-for-classification
 ## Author: [ACSEKevin](<https://github.com/ACSEkevin>)
 This is a project including most of the CNN backbones which can be found in package `kevin_utils.models`<p>
-Feel free to [contact me](<hzhang205@sheffield.ac.uk>) if there is any correction or suggestion.
+Feel free to [make a contact](<hzhang205@sheffield.ac.uk>) if there is any correction or suggestion.
 #### Notice: 
 1. SwinTransformer in this version accepts inputs with different size of images instead of the original version (224 x 224 x 3),  has not been tested yet, however. If there is any problem when using models, please refer to <https://github.com/microsoft/Swin-Transformer><br> 
 2. The datasets have been removed from the dataset directories, please add own dataset before run the code. The origial datasets: ImageNet21k, Pascal VOC 2012, cat_and_dog_dataset, flowers_dataset, gesture_dataset.<p>
