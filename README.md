@@ -1,4 +1,4 @@
-# CV-Keras-TensorFlow-for-classification
+# CV Keras/TensorFlow for classification
 ## Author: [ACSEKevin](<https://github.com/ACSEkevin>)
 This is a project including most of the CNN backbones which can be found in package `kevin_utils.models`<p>
 Feel free to [make a contact](<hzhang205@sheffield.ac.uk>) if there is any correction or suggestion.
